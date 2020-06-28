@@ -10,8 +10,8 @@ Requires
 ## Get latest programme
 Use the get_latest script giving the first argument as the station name and the second as the programme name
 
-Example: Download latest News and Papers programme from Radio 4
+Example: Download and play latest News and Papers programme from Radio 4
 ```
 $ chmod +x *.sh
-$ ./get_latest.sh "BBC Radio 4" "News and Papers"
+$ ./play_latest.sh "BBC Radio 4" "News and Papers"
 ```

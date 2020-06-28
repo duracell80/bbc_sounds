@@ -13,5 +13,5 @@ Use the get_latest script giving the first argument as the station name and the 
 Example: Download latest News and Papers programme from Radio 4
 ```
 $ chmod +x *.sh
-$ ./get_latest "BBC Radio 4" "News and Papers"
+$ ./get_latest.sh "BBC Radio 4" "News and Papers"
 ```

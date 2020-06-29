@@ -10,5 +10,3 @@ rm -rf downloads/BBC/"$1/"
 
 mpc update
 mpc add "ROD/BBC/$1/$2"
-mpc play
-mpc next

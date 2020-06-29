@@ -20,3 +20,8 @@ Example: Download and play latest Shipping Forecast from Radio 4
 ```
 $ ./play_latest.sh "Radio 4" "Shipping Forecast"
 ```
+
+Example: Download and queue up latest Recommends from 6 Music
+```
+$ ./play_latest.sh "Radio 4" "Shipping Forecast"
+```

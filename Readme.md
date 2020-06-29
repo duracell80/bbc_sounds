@@ -23,5 +23,5 @@ $ ./play_latest.sh "Radio 4" "Shipping Forecast"
 
 Example: Download and queue up latest Recommends from 6 Music
 ```
-$ ./play_latest.sh "Radio 4" "Shipping Forecast"
+$ ./load_latest.sh "Radio 4" "Shipping Forecast"
 ```

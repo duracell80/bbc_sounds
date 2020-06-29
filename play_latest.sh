@@ -8,6 +8,6 @@ sudo cp -rf ../../../../downloads/* /var/lib/mpd/music/ROD
 rm -rf downloads/BBC/"$1/"
 
 mpc update
-mpc clear
 mpc insert "ROD/BBC/$1/$2"
 mpc play
+mpc next

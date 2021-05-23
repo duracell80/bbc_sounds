@@ -25,3 +25,10 @@ Example: Download and queue up latest Recommends from 6 Music
 ```
 $ ./load_latest.sh "6 Music" "6 Music Recommends"
 ```
+## Get all programmes
+Use the get_all script like
+
+```
+$ ./get_all.sh "BBC Radio 6 Music" "Lose Yourself With"
+```
+
